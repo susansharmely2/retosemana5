@@ -1,0 +1,84 @@
+body{
+    background-color: hsl(0, 100%, 74%);
+   margin: 30px;
+   
+}
+h1{
+   
+    font-weight: 600;
+    font-size: 28px;
+}
+p{
+    font-size: 19px;
+    color: white;
+    text-align: center;
+}
+.contenedor{
+    width: 375px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    background-color: hsl(0, 100%, 74%);
+    margin: 20px;
+    padding: 20px;
+
+}
+.cont-peq{
+    width: 90%;
+    background-color: hsl(248, 32%, 49%);
+    border-radius: 5px;
+    text-align: center;
+    padding:5px ;
+    margin: 13px;
+    text-transform: none;
+    box-shadow: 1px 5px 5px #454443;
+    
+
+}
+
+
+.contenedor-formulario{
+    width: 80%;
+    background-color: white;
+    color:hsl(246, 25%, 77%) ;
+    border-radius: 5px;
+    padding: 26px;
+    margin: 11px;
+    box-shadow: 10px 10px 5px #5351517a;
+ 
+
+}
+input{
+    width: 84%;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 9px;
+    padding: 18px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid hsl(246, 25%, 77%) ;
+    
+}
+span{
+    font-weight: bold;
+}
+.cont-peq p{
+    font-size: 18px;
+    margin: 10px 5px;
+}
+button{
+    background-color: hsl(154, 59%, 51%);
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    width: 97%;
+    padding: 20px;
+    text-transform: uppercase;
+    margin: 9px;
+}
+.texto-final {
+    color: hsl(150, 1%, 67%);
+    font-size: 12px;
+}
+.texto-final span{
+    color: red;
+}
